@@ -1,2 +1,2 @@
 # Basic_Library_management_01
-Basic Library Management 
+This is an Android app developed to support basic library management functions such as maintaining books, memberships, and lending details. This app permits users to store data in SQLite database format on their device storage. The database contains all necessary tables to perform basic functions. The app offers CRUD (Create, Read, Update, Delete) functionalities for managing book details, book copy details, member details, publisher details, author details, lending details, and branch details. Its UI is designed to be user-friendly and buttons are placed appropriately. This app was tested with real data.
